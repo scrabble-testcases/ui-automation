@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScenarioList AutoStartDelay="15" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<Scenarios>
-		<Scenario Path="http://192.168.15.158:9000/5.0.0.699234.xml"/>
-		<Scenario Path="http://192.168.15.158:9000/Actions3.xml"/>
-		<Scenario Path="http://192.168.15.158:9000/hasbro_700472_Portrait_TEST_2.xml"/>
-		<Scenario Path="http://192.168.15.158:9000/hasbro_scrabblefree_5.0.0.000000_Portrait_Actions.xml"/>
-		<Scenario Path="http://192.168.15.158:9000/hasbro_scrabblefree_5.0.0.700472_Portrait_Actions_Engl_all_dict_change_lang_to_fr.xml"/>
-		<Scenario Path="http://192.168.15.158:9000/hasbro_scrabblefree_5.0.0.700472_Portrait_Actions_TEST.xml"/>
-		<Scenario Path="http://192.168.15.158:9000/hasbro_scrabblefree_5.0.0.701821_Landscape_Actions.xml"/>
-		<Scenario Path="http://192.168.15.158:9000/orientation.xml"/>
-		<Scenario Path="http://192.168.15.158:9000/testedt.xml"/>
+		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/5.0.0.699234.xml"/>
+		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Actions3.xml"/>
+		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/hasbro_700472_Portrait_TEST_2.xml"/>
+		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/hasbro_scrabblefree_5.0.0.000000_Portrait_Actions.xml"/>
+		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/hasbro_scrabblefree_5.0.0.700472_Portrait_Actions_Engl_all_dict_change_lang_to_fr.xml"/>
+		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/hasbro_scrabblefree_5.0.0.700472_Portrait_Actions_TEST.xml"/>
+		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/hasbro_scrabblefree_5.0.0.701821_Landscape_Actions.xml"/>
+		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/orientation.xml"/>
+		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/testedt.xml"/>
 	</Scenarios>
 </ScenarioList>
