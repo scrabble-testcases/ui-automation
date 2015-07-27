@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UITAEventContainer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Orientation="Portrait" ScreenshotDelay="3" ClickDelay="0" InputDelay="1">
+  <UIEvents>
+    <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/Splash1" SliderValue="0" />
+    <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/FPSView" SliderValue="0" />
+    <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/MainMenu/StartPage" SliderValue="0" />
+    <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/MainMenu" SliderValue="0" />
+    <UIEvent TimeDelta="2.172543" Type="ButtonClick" GameObjectName="/Canvas/MainMenu/StartPage/ScrollArea/ScrollContent/NewGameButton" SliderValue="0" />
+    <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/NewGameDialog" SliderValue="0" />
+    <UIEvent TimeDelta="4.557153" Type="ButtonClick" GameObjectName="/Canvas/NewGameDialog/Body/SingleButton" SliderValue="0" />
+    <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/SinglePlayerDialog" SliderValue="0" />
+    <UIEvent TimeDelta="0" Type="SliderInput" GameObjectName="/Canvas/SinglePlayerDialog/SetupPanel/DifficultyPanel/DifficultySlider" SliderValue="0.75" />
+    <UIEvent TimeDelta="0" Type="SliderInput" GameObjectName="/Canvas/SinglePlayerDialog/SetupPanel/MatchPanel/BestWordGroup/Switch" SliderValue="0" />
+    <UIEvent TimeDelta="0" Type="SliderInput" GameObjectName="/Canvas/SinglePlayerDialog/SetupPanel/MatchPanel/BestWordGroup/Switch" SliderValue="0" />
+    <UIEvent TimeDelta="0" Type="SliderInput" GameObjectName="/Canvas/SinglePlayerDialog/SetupPanel/MatchPanel/BestWordGroup/Switch" SliderValue="0" />
+    <UIEvent TimeDelta="0" Type="SliderInput" GameObjectName="/Canvas/SinglePlayerDialog/SetupPanel/MatchPanel/BestWordGroup/Switch" SliderValue="0" />
+    <UIEvent TimeDelta="0" Type="SliderInput" GameObjectName="/Canvas/SinglePlayerDialog/SetupPanel/MatchPanel/TeacherGroup/Switch" SliderValue="1" />
+    <UIEvent TimeDelta="16.2251282" Type="ButtonClick" GameObjectName="/Canvas/SinglePlayerDialog/SetupPanel/PlayButton" SliderValue="0" />
+    <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/GetReady" SliderValue="0" />
+    <UIEvent TimeDelta="6.36137" Type="ViewOpened" GameObjectName="/Canvas/GameWindow" SliderValue="0" />
+    <UIEvent TimeDelta="4.35376" Type="ButtonClick" GameObjectName="/Canvas/GameWindow/Header/BackButton" SliderValue="0" />
+    <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/MainMenu/StartPage" SliderValue="0" />
+    <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/MainMenu" SliderValue="0" />
+    <UIEvent TimeDelta="4.84933472" Type="ButtonClick" GameObjectName="/Canvas/MainMenu/StartPage/ScrollArea/ScrollContent/NewGameButton" SliderValue="0" />
+    <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/NewGameDialog" SliderValue="0" />
+    <UIEvent TimeDelta="1.1797905" Type="ButtonClick" GameObjectName="/Canvas/NewGameDialog/Body/PassButton" SliderValue="0" />
+    <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PassAndPlayDialog" SliderValue="0" />
+    <UIEvent TimeDelta="0" Type="TextInput" GameObjectName="/Canvas/PassAndPlayDialog/SetupPanel/Player1/Player1NameInput" InputValue="One" SliderValue="0" />
+    <UIEvent TimeDelta="0" Type="TextInput" GameObjectName="/Canvas/PassAndPlayDialog/SetupPanel/Player2/Player2NameInput" InputValue="Two" SliderValue="0" />
+    <UIEvent TimeDelta="14.4472046" Type="ButtonClick" GameObjectName="/Canvas/PassAndPlayDialog/SetupPanel/PlayButton" SliderValue="0" />
+    <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/GameWindow" SliderValue="0" />
+    <UIEvent TimeDelta="2.83535767" Type="ButtonClick" GameObjectName="/Canvas/GameWindow/Header/BackButton" SliderValue="0" />
+    <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/MainMenu/StartPage" SliderValue="0" />
+    <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/MainMenu" SliderValue="0" />
+  </UIEvents>
+</UITAEventContainer>
