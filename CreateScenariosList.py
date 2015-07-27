@@ -8,7 +8,7 @@ autoStartDelay = "15" #seconds
 
 scenariosList = "ScenariosList"
 xmlExtension = ".xml"
-ipPath = "http://192.168.15.158:9000/"
+ipPath = "https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/"
 
 
 mypath = dirname(abspath(__file__))
