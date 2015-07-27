@@ -76,5 +76,15 @@
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/AboutPopup" SliderValue="0" />
     <UIEvent TimeDelta="1.416893" Type="ButtonClick" GameObjectName="/Canvas/AboutPopup/Frame/Header/CloseButton" SliderValue="0" />
     <UIEvent TimeDelta="1.61646271" Type="ButtonClick" GameObjectName="/Canvas/OptionsPopup/Frame/Header/CloseButton" SliderValue="0" />
+	<UIEvent TimeDelta="107.305313" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/LeftPanel/MainMenu/Header/ProfileButton" SliderValue="0" />
+    <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/ProfilePopup" SliderValue="0" />
+    <UIEvent TimeDelta="1.01673889" Type="ButtonClick" GameObjectName="/Canvas/ProfilePopup/Frame/Header/CloseButton" SliderValue="0" />
+    <UIEvent TimeDelta="1.00100708" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/LeftPanel/MainMenu/Header/StoreButton" SliderValue="0" />
+    <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/MTXStorePopup" SliderValue="0" />
+    <UIEvent TimeDelta="0.982498169" Type="ButtonClick" GameObjectName="/Canvas/MTXStorePopup/Frame/Header/BackButton" SliderValue="0" />
+    <UIEvent TimeDelta="3.23353577" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/LeftPanel/MainMenu/Header/NewGameButton" SliderValue="0" />
+    <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/NewGameDialog/Frame/ScrollArea/ScrollContent/LangSelectBtn/LangSelectDialog" SliderValue="0" />
+    <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/NewGameDialog" SliderValue="0" />
+    <UIEvent TimeDelta="1.21673584" Type="ButtonClick" GameObjectName="/Canvas/NewGameDialog/Frame/Header/CloseBtn" SliderValue="0" />
   </UIEvents>
 </UITAEventContainer>
