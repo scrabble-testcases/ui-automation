@@ -3,5 +3,6 @@
 	<Scenarios>
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/hasbro_scrabblefree_5.0.0.701821_Landscape_Actions.xml"/>
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/hasbro_scrabblefree_5.0.0.702369_Portrait_Actions.xml"/>
+		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/hasbro_scrabblefree_5.0.0.702369_Portrait_Actions-FULL.xml"/>
 	</Scenarios>
 </ScenarioList>
