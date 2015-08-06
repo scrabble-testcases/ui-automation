@@ -7,6 +7,6 @@
 				<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Portrait_Germ.xml"/>
 				<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Portrait_Ital.xml"/>
 				<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Portrait_Port.xml"/>
-				<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/TEST_Landscape_Actions_Eng_Fr.xml"/>
+				<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Landscape_Actions_all_lang.xml"/>
 	</Scenarios>
 </ScenarioList>
