@@ -94,7 +94,6 @@
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
     <UIEvent TimeDelta="1.200943" Type="ButtonClick" GameObjectName="/Canvas/PopupDialog/Frame/ButtonCenter" SliderValue="0" />
     <UIEvent TimeDelta="1.13280487" Type="ButtonClick" GameObjectName="/Canvas/SinglePlayerPopup/Frame/ScrollArea/ScrollContent/MatchPanel/TeacherGroup/HelpButton" SliderValue="0" />
-    <UIEvent TimeDelta="0.800498962" Type="ButtonClick" GameObjectName="/Canvas/SinglePlayerPopup/Frame/ScrollArea/ScrollContent/MatchPanel/TeacherGroup/HelpButton" SliderValue="0" />
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
     <UIEvent TimeDelta="1.43273163" Type="ButtonClick" GameObjectName="/Canvas/PopupDialog/Frame/ButtonCenter" SliderValue="0" />
     <UIEvent TimeDelta="0.93359375" Type="ButtonClick" GameObjectName="/Canvas/SinglePlayerPopup/Frame/ScrollArea/ScrollContent/MatchPanel/BestWordGroup/HelpButton" SliderValue="0" />
@@ -215,8 +214,7 @@
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
     <UIEvent TimeDelta="1.200943" Type="ButtonClick" GameObjectName="/Canvas/PopupDialog/Frame/ButtonCenter" SliderValue="0" />
     <UIEvent TimeDelta="1.13280487" Type="ButtonClick" GameObjectName="/Canvas/SinglePlayerPopup/Frame/ScrollArea/ScrollContent/MatchPanel/TeacherGroup/HelpButton" SliderValue="0" />
-    <UIEvent TimeDelta="0.800498962" Type="ButtonClick" GameObjectName="/Canvas/SinglePlayerPopup/Frame/ScrollArea/ScrollContent/MatchPanel/TeacherGroup/HelpButton" SliderValue="0" />
-    <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
+     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
     <UIEvent TimeDelta="1.43273163" Type="ButtonClick" GameObjectName="/Canvas/PopupDialog/Frame/ButtonCenter" SliderValue="0" />
     <UIEvent TimeDelta="0.93359375" Type="ButtonClick" GameObjectName="/Canvas/SinglePlayerPopup/Frame/ScrollArea/ScrollContent/MatchPanel/BestWordGroup/HelpButton" SliderValue="0" />
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
@@ -262,12 +260,12 @@
     <UIEvent TimeDelta="0.7998657" Type="ViewOpened" GameObjectName="/Canvas/WaiterWithCaption" SliderValue="0" />
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/NoTurnsToPlayPopup" SliderValue="0" />
     <UIEvent TimeDelta="1.90045166" Type="ButtonClick" GameObjectName="/Canvas/NoTurnsToPlayPopup/Frame/CloseBtn" SliderValue="0" />
-	<!--portugese-->  
+	<!--portugal-->  
     <UIEvent TimeDelta="2.70023251" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/LeftPanel/MainMenu/Header/SettingsButton" SliderValue="0" />
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/OptionsPopup" SliderValue="0" />
     <UIEvent TimeDelta="2.116827" Type="ButtonClick" GameObjectName="/Canvas/OptionsPopup/Frame/ScrollArea/ScrollContent/MenuLangButton" SliderValue="0" />
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/LanguageSelectPopup" SliderValue="0" />
-    <UIEvent TimeDelta="0.9832134" Type="ButtonClick" GameObjectName="/Canvas/LanguageSelectPopup/Frame/Back/Portuguese" SliderValue="0" />
+    <UIEvent TimeDelta="0.9832134" Type="ButtonClick" GameObjectName="/Canvas/LanguageSelectPopup/Frame/Back/Portugal" SliderValue="0" />
     <UIEvent TimeDelta="1.933548" Type="ButtonClick" GameObjectName="/Canvas/LanguageSelectPopup/Frame/Header/CloseButton" SliderValue="0" />
     <UIEvent TimeDelta="2.86759186" Type="ButtonClick" GameObjectName="/Canvas/OptionsPopup/Frame/ScrollArea/ScrollContent/ShareSwitch/Button" SliderValue="0" />
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
@@ -336,7 +334,6 @@
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
     <UIEvent TimeDelta="1.200943" Type="ButtonClick" GameObjectName="/Canvas/PopupDialog/Frame/ButtonCenter" SliderValue="0" />
     <UIEvent TimeDelta="1.13280487" Type="ButtonClick" GameObjectName="/Canvas/SinglePlayerPopup/Frame/ScrollArea/ScrollContent/MatchPanel/TeacherGroup/HelpButton" SliderValue="0" />
-    <UIEvent TimeDelta="0.800498962" Type="ButtonClick" GameObjectName="/Canvas/SinglePlayerPopup/Frame/ScrollArea/ScrollContent/MatchPanel/TeacherGroup/HelpButton" SliderValue="0" />
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
     <UIEvent TimeDelta="1.43273163" Type="ButtonClick" GameObjectName="/Canvas/PopupDialog/Frame/ButtonCenter" SliderValue="0" />
     <UIEvent TimeDelta="0.93359375" Type="ButtonClick" GameObjectName="/Canvas/SinglePlayerPopup/Frame/ScrollArea/ScrollContent/MatchPanel/BestWordGroup/HelpButton" SliderValue="0" />
