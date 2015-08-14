@@ -23,6 +23,7 @@
 	<!--begin-->
     <UIEvent TimeDelta="2.80017376" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/LeftPanel/MainMenu/Header/ButtonsContainer/SettingsContainer/SettingsButton" SliderValue="0" />
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/OptionsPopup" SliderValue="0" />
+	<UIEvent TimeDelta="2.973706" Type="ButtonClick" GameObjectName="/Canvas/OptionsPopup/Frame/ScrollArea/ScrollContent/PACPButton" SliderValue="0" />
     <UIEvent TimeDelta="4.264763" Type="ButtonClick" GameObjectName="/Canvas/OptionsPopup/Frame/ScrollArea/ScrollContent/MenuLangButton" SliderValue="0" />
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/LanguageSelectPopup" SliderValue="0" />
     <UIEvent TimeDelta="1.15614319" Type="ButtonClick" GameObjectName="/Canvas/LanguageSelectPopup/Frame/Back/English" SliderValue="0" />
