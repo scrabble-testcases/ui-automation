@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScenarioList AutoStartDelay="15" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<Scenarios>
-				<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Landscape_5lang.xml"/>
-				<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/hasbro_scrabblefree_5.0.0.702369_Portrait_Actions-FULL_withoutSTORE_new_tut.xml"/>
+				<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/test_Nikolay.xml"/>
 	</Scenarios>
 </ScenarioList>
