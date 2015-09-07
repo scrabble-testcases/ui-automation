@@ -16,6 +16,7 @@
     <UIEvent TimeDelta="1.4292922" Type="ButtonClick" GameObjectName="/Canvas/TapToContinue/Frame/MessageContainer/ButtonsContainer/SkipButton" SliderValue="0" />
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
     <UIEvent TimeDelta="1.33111" Type="ButtonClick" GameObjectName="/Canvas/PopupDialog/Frame/ButtonRight" SliderValue="0" />
+	
     <UIEvent TimeDelta="3.30208588" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/LeftPanel/MainMenu/TabsPlaceholder/StartPage/ScrollArea/ScrollContent/ConstContent/NewGameButton" SliderValue="0" />
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/NewGameDialog/Frame/ScrollArea/ScrollContent/LangSelectBtn/LangSelectDialog" SliderValue="0" />
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/NewGameDialog" SliderValue="0" />

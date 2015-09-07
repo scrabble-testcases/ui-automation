@@ -4,7 +4,7 @@
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Portrait_FULL_v2_tab.xml"/>
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Portrait_FULL_v2.xml"/>		
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Portrait_N.xml"/>
-		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Long_scenario_scrabblefree_all_lang.xml"/>
+		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Long_scenario_landscape_all_lang.xml"/>
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/build_and_run.xml"/>
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/passnplay_speedplay.xml"/>
 	</Scenarios>
