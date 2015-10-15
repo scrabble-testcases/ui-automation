@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <UITAEventContainer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Orientation="Portrait" DeviceType="Other" ScreenshotDelay="3" ClickDelay="0" InputDelay="1">
   <UIEvents>
-  	<!--Skip Tutorial--> 
+  	<!--Skip Tutorial-->
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/Splash1" SliderValue="0" />
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/FPSView" SliderValue="0" />
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/LegalAgreement" SliderValue="0" />
