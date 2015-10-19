@@ -63,3 +63,5 @@
     <UIEvent TimeDelta="2.376812" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/RightPanel/DictionaryDialog/Frame/Background/Buttons/MoveTabButtonContainer/Toggle" SliderValue="0" />
     <UIEvent TimeDelta="2.13090515" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/RightPanel/DictionaryDialog/Header/SubHeaderBar/CloseBtn" SliderValue="0" />
     <UIEvent TimeDelta="2.53813553" Type="But
+  </UIEvents>
+</UITAEventContainer>
