@@ -7,6 +7,7 @@
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Portrait_FULL_v7_v4_newskip_eng-end.xml"/>
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Portrait_FULL_v7_v4_newskip_iOS_eng-end.xml"/>
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Portrait_FULL_v7_v5_newskip_iOS_eng-end_share.xml"/>
+		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Portrait_FULL_v7_v5_newskip_iOS_eng-end_share_tabltet.xml"/>
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Portrait_N.xml"/>
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/build_and_run.xml"/>
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/iOS_landscape_FULL.xml"/>
