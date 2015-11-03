@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScenarioList AutoStartDelay="15" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<Scenarios>
-		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Android_landscape_FULL.xml"/>
-		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Portrait_FULL_v7_v3_newskip.xml"/>
-		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Portrait_FULL_v7_v3_newskip_iOS.xml"/>
-		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Portrait_FULL_v7_v4_newskip_eng-end.xml"/>
-		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Portrait_FULL_v7_v4_newskip_iOS_eng-end.xml"/>
-		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Portrait_FULL_v7_v5_newskip_iOS_eng-end_share.xml"/>
-		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Portrait_FULL_v7_v5_newskip_iOS_eng-end_share_tabltet.xml"/>
-		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Portrait_N.xml"/>
-		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/build_and_run.xml"/>
-		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/iOS_landscape_FULL.xml"/>
+		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Landscape_FULL_v7_v5_newskip_iOS_eng-end_share_tablet.xml"/>
+		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Portrait_FULL_v7_v4_newskip_eng-end_Android_phone.xml"/>
+		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Portrait_FULL_v7_v5_newskip_iOS_eng-end_share_phone.xml"/>
+		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Portrait_FULL_v7_v5_newskip_iOS_eng-end_share_tablet.xml"/>
 	</Scenarios>
 </ScenarioList>
