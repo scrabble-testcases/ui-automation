@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScenarioList AutoStartDelay="15" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<Scenarios>
-		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Landscape_FULL_v7_v5_newskip_iOS_eng-end_share_tablet.xml"/>
-		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Landscape_FULL_v7_v5_newskip_iOS_eng-end_share_tablet_Singlenew.xml"/>
-		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Landscape_FULL_v7_v5_newskip_iOS_eng-end_share_tablet_dictplay.xml"/>
-		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Portrait_FULL_v7_v4_newskip_eng-end_Android_phone.xml"/>
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Portrait_FULL_v7_v5_newskip_iOS_eng-end_share_phone.xml"/>
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Portrait_FULL_v7_v5_newskip_iOS_eng-end_share_tablet.xml"/>
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Portrait_FULL_v7_v6_newskip_iOS_eng-end_share_newftue_tablet.xml"/>
-		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Portrait_only english.xml"/>
-		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/hasbro_scrabblefree_5.0.2.721661_Landscape_Actions.xml"/>
-		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/hasbro_scrabblefree_5.1.0.722694_Landscape_Actions.xml"/>
+		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Portrait_only english_phone.xml"/>
 	</Scenarios>
 </ScenarioList>
