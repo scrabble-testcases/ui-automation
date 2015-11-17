@@ -12,5 +12,6 @@
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/hasbro_scrabblefree_5.1.0.723904_PassNplay.xml"/>
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/hasbro_scrabblefree_5.1.0.723904_Portrait_Actions.xml"/>
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/hasbro_scrabblefree_5.1.0.723904_others.xml"/>
+		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/hasbro_scrabblefree_5.1.0.723904_others_android.xml"/>
 	</Scenarios>
 </ScenarioList>
