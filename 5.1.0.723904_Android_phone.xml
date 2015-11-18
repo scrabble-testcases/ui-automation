@@ -755,7 +755,7 @@
     <UIEvent TimeDelta="0.0176639557" Type="ViewOpened" GameObjectName="/Canvas/OptionsPopup" SliderValue="0" />
     <UIEvent TimeDelta="1.5671463" Type="ButtonClick" GameObjectName="/Canvas/OptionsPopup/Frame/Container/Dialog/ScrollArea/ScrollContent/MenuLangButton" SliderValue="0" />
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/OptionsPopup/LanguageSelectPopup" SliderValue="0" />
-    <UIEvent TimeDelta="1.23306274" Type="ButtonClick" GameObjectName="/Canvas/OptionsPopup/LanguageSelectPopup/Frame/Back/Portugal" SliderValue="0" />
+    <UIEvent TimeDelta="1.23306274" Type="ButtonClick" GameObjectName="/Canvas/OptionsPopup/LanguageSelectPopup/Frame/Back/English" SliderValue="0" />
     <UIEvent TimeDelta="1.58310318" Type="ButtonClick" GameObjectName="/Canvas/OptionsPopup/Frame/Container/Dialog/ScrollArea/ScrollContent/ShareSwitch/Button" SliderValue="0" />
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
     <UIEvent TimeDelta="1.66735268" Type="ButtonClick" GameObjectName="/Canvas/PopupDialog/Frame/Container/Dialog/Body/ButtonCenter" SliderValue="0" />
