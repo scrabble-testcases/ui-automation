@@ -7,5 +7,6 @@
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/5.1.0.723904_iOS_phone_only_English.xml"/>
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/5.1.0.725819_Landscape.xml"/>
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/5.1.0.725819_Landscape_iOs.xml"/>
+		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/5.1.0.725819_Landscape_v2.xml"/>
 	</Scenarios>
 </ScenarioList>
