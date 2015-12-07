@@ -2,6 +2,7 @@
 <ScenarioList AutoStartDelay="15" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<Scenarios>
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/5.1.0.723904_iOS_phone_v3.xml"/>
+		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/5.1.0.723904_iOS_phone_v6.xml"/>
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/5.1.0.726722_Landscape_iOs_v3.xml"/>
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/5.1.0.726722_Landscape_iOs_v4.xml"/>
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/5.1.0.726722_Landscape_iOs_v5.xml"/>
