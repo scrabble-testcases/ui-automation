@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<UITAEventContainer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Orientation="Landscape" DeviceType="Other" ScreenshotDelay="3" ClickDelay="3" InputDelay="3">
+<UITAEventContainer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Orientation="Landscape" DeviceType="Other" ScreenshotDelay="3" ClickDelay="2" InputDelay="2">
   <UIEvents>
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/Splash1" SliderValue="0" />
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/FPSView" SliderValue="0" />
