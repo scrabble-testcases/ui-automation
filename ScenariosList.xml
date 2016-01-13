@@ -2,7 +2,7 @@
 <ScenarioList AutoStartDelay="15" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<Scenarios>
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/5.1.0.723904_iOS_phone_v6.xml"/>
-		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Android_Landscape_v10.xml"/>
+		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Android_Landscape_v10_full.xml"/>
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Android_Landscape_v8_FR_ES_IT.xml"/>
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Android_Landscape_v8_GR_PT_EN.xml"/>
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Android_phone_v4_full.xml"/>
@@ -10,7 +10,6 @@
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Android_phone_v8_FR_ES_IT.xml"/>
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Android_phone_v8_GR_PT.xml"/>
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Android_tablet_Portrait_v5.xml"/>
-		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/hasbro_scrabblefree_5.1.1.728607_Portrait_Actions.xml"/>
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/iOS_Landscape_v5.xml"/>
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/iOS_Landscape_v6.xml"/>
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/iOS_Tablet_Portrait_v6.xml"/>
