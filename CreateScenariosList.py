@@ -24,8 +24,8 @@ scenarios = ET.SubElement(root, "Scenarios")
 for f in onlyfiles:
    ET.SubElement(scenarios, "Scenario", Path = ipPath + f)
    
-xml = XDM.parseString(ET.tostring(root,encoding = "utf-8", method = "xml"))
-res = '\n'.join([line for line in xml.toprettyxml(indent='	', encoding = "utf-8").split('\n') if line.strip()])
+xml = XDM.parseString(ET.tostring(root,encoding = "iso-8859-1", method = "xml"))
+res = '\n'.join([line for line in xml.toprettyxml(indent='	', encoding = "iso-8859-1").split('\n') if line.strip()])
 scenariosListFullName = join(mypath,scenariosList + xmlExtension)
 if isfile(scenariosListFullName) :
    f = open(scenariosListFullName,'r')
