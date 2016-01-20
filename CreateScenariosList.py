@@ -37,7 +37,6 @@ if existing != res :
    f = open(scenariosListFullName,'w')
    f.write(res)
    f.close()
-   print "\n File was changed \n"
+   print("\n File " + scenariosListFullName + " was changed.\n")
 else :
-   print "\n File was not changed\n"
-print res
+   print("\n File " + scenariosListFullName + " was not changed.\n")
