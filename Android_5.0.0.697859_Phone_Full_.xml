@@ -69,7 +69,7 @@
     <UIEvent TimeDelta="0.87802887" Type="ButtonClick" GameObjectName="/Canvas/OptionsPopup/Frame/Container/Dialog/ScrollArea/ScrollContent/CreditsButton" SliderValue="0" />
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
     <UIEvent TimeDelta="0.983688354" Type="ButtonClick" GameObjectName="/Canvas/PopupDialog/Frame/Container/Dialog/Body/ButtonCenter" SliderValue="0" />
-    <UIEvent TimeDelta="20.7993317" Type="ButtonClick" GameObjectName="/Canvas/OptionsPopup/Frame/Container/Dialog/Header/CloseButton" SliderValue="0" />
+    <UIEvent TimeDelta="2.7993317" Type="ButtonClick" GameObjectName="/Canvas/OptionsPopup/Frame/Container/Dialog/Header/CloseButton" SliderValue="0" />
     <UIEvent TimeDelta="1.93841553" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/LeftPanel/DialogContainer/MainMenu/Header/ButtonsContainer/ProfileContainer/ProfileButton" SliderValue="0" />
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/ProfilePopup" SliderValue="0" />
     <UIEvent TimeDelta="1.83045959" Type="ButtonClick" GameObjectName="/Canvas/ProfilePopup/Frame/Container/DialogFrame/Header/CloseButton" SliderValue="0" />
@@ -218,7 +218,7 @@
     <UIEvent TimeDelta="0.87802887" Type="ButtonClick" GameObjectName="/Canvas/OptionsPopup/Frame/Container/Dialog/ScrollArea/ScrollContent/CreditsButton" SliderValue="0" />
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
     <UIEvent TimeDelta="0.983688354" Type="ButtonClick" GameObjectName="/Canvas/PopupDialog/Frame/Container/Dialog/Body/ButtonCenter" SliderValue="0" />
-    <UIEvent TimeDelta="20.7993317" Type="ButtonClick" GameObjectName="/Canvas/OptionsPopup/Frame/Container/Dialog/Header/CloseButton" SliderValue="0" />
+    <UIEvent TimeDelta="2.7993317" Type="ButtonClick" GameObjectName="/Canvas/OptionsPopup/Frame/Container/Dialog/Header/CloseButton" SliderValue="0" />
     <UIEvent TimeDelta="1.93841553" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/LeftPanel/DialogContainer/MainMenu/Header/ButtonsContainer/ProfileContainer/ProfileButton" SliderValue="0" />
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/ProfilePopup" SliderValue="0" />
     <UIEvent TimeDelta="1.83045959" Type="ButtonClick" GameObjectName="/Canvas/ProfilePopup/Frame/Container/DialogFrame/Header/CloseButton" SliderValue="0" />
@@ -367,7 +367,7 @@
     <UIEvent TimeDelta="0.87802887" Type="ButtonClick" GameObjectName="/Canvas/OptionsPopup/Frame/Container/Dialog/ScrollArea/ScrollContent/CreditsButton" SliderValue="0" />
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
     <UIEvent TimeDelta="0.983688354" Type="ButtonClick" GameObjectName="/Canvas/PopupDialog/Frame/Container/Dialog/Body/ButtonCenter" SliderValue="0" />
-    <UIEvent TimeDelta="20.7993317" Type="ButtonClick" GameObjectName="/Canvas/OptionsPopup/Frame/Container/Dialog/Header/CloseButton" SliderValue="0" />
+    <UIEvent TimeDelta="2.7993317" Type="ButtonClick" GameObjectName="/Canvas/OptionsPopup/Frame/Container/Dialog/Header/CloseButton" SliderValue="0" />
     <UIEvent TimeDelta="1.93841553" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/LeftPanel/DialogContainer/MainMenu/Header/ButtonsContainer/ProfileContainer/ProfileButton" SliderValue="0" />
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/ProfilePopup" SliderValue="0" />
     <UIEvent TimeDelta="1.83045959" Type="ButtonClick" GameObjectName="/Canvas/ProfilePopup/Frame/Container/DialogFrame/Header/CloseButton" SliderValue="0" />
@@ -516,7 +516,7 @@
     <UIEvent TimeDelta="0.87802887" Type="ButtonClick" GameObjectName="/Canvas/OptionsPopup/Frame/Container/Dialog/ScrollArea/ScrollContent/CreditsButton" SliderValue="0" />
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
     <UIEvent TimeDelta="0.983688354" Type="ButtonClick" GameObjectName="/Canvas/PopupDialog/Frame/Container/Dialog/Body/ButtonCenter" SliderValue="0" />
-    <UIEvent TimeDelta="20.7993317" Type="ButtonClick" GameObjectName="/Canvas/OptionsPopup/Frame/Container/Dialog/Header/CloseButton" SliderValue="0" />
+    <UIEvent TimeDelta="2.7993317" Type="ButtonClick" GameObjectName="/Canvas/OptionsPopup/Frame/Container/Dialog/Header/CloseButton" SliderValue="0" />
     <UIEvent TimeDelta="1.93841553" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/LeftPanel/DialogContainer/MainMenu/Header/ButtonsContainer/ProfileContainer/ProfileButton" SliderValue="0" />
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/ProfilePopup" SliderValue="0" />
     <UIEvent TimeDelta="1.83045959" Type="ButtonClick" GameObjectName="/Canvas/ProfilePopup/Frame/Container/DialogFrame/Header/CloseButton" SliderValue="0" />
@@ -665,7 +665,7 @@
     <UIEvent TimeDelta="0.87802887" Type="ButtonClick" GameObjectName="/Canvas/OptionsPopup/Frame/Container/Dialog/ScrollArea/ScrollContent/CreditsButton" SliderValue="0" />
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
     <UIEvent TimeDelta="0.983688354" Type="ButtonClick" GameObjectName="/Canvas/PopupDialog/Frame/Container/Dialog/Body/ButtonCenter" SliderValue="0" />
-    <UIEvent TimeDelta="20.7993317" Type="ButtonClick" GameObjectName="/Canvas/OptionsPopup/Frame/Container/Dialog/Header/CloseButton" SliderValue="0" />
+    <UIEvent TimeDelta="2.7993317" Type="ButtonClick" GameObjectName="/Canvas/OptionsPopup/Frame/Container/Dialog/Header/CloseButton" SliderValue="0" />
     <UIEvent TimeDelta="1.93841553" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/LeftPanel/DialogContainer/MainMenu/Header/ButtonsContainer/ProfileContainer/ProfileButton" SliderValue="0" />
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/ProfilePopup" SliderValue="0" />
     <UIEvent TimeDelta="1.83045959" Type="ButtonClick" GameObjectName="/Canvas/ProfilePopup/Frame/Container/DialogFrame/Header/CloseButton" SliderValue="0" />
@@ -814,7 +814,7 @@
     <UIEvent TimeDelta="0.87802887" Type="ButtonClick" GameObjectName="/Canvas/OptionsPopup/Frame/Container/Dialog/ScrollArea/ScrollContent/CreditsButton" SliderValue="0" />
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
     <UIEvent TimeDelta="0.983688354" Type="ButtonClick" GameObjectName="/Canvas/PopupDialog/Frame/Container/Dialog/Body/ButtonCenter" SliderValue="0" />
-    <UIEvent TimeDelta="20.7993317" Type="ButtonClick" GameObjectName="/Canvas/OptionsPopup/Frame/Container/Dialog/Header/CloseButton" SliderValue="0" />
+    <UIEvent TimeDelta="2.7993317" Type="ButtonClick" GameObjectName="/Canvas/OptionsPopup/Frame/Container/Dialog/Header/CloseButton" SliderValue="0" />
     <UIEvent TimeDelta="1.93841553" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/LeftPanel/DialogContainer/MainMenu/Header/ButtonsContainer/ProfileContainer/ProfileButton" SliderValue="0" />
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/ProfilePopup" SliderValue="0" />
     <UIEvent TimeDelta="1.83045959" Type="ButtonClick" GameObjectName="/Canvas/ProfilePopup/Frame/Container/DialogFrame/Header/CloseButton" SliderValue="0" />
