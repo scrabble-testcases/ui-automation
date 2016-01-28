@@ -84,7 +84,7 @@
     <UIEvent TimeDelta="5.89128876" Type="ButtonClick" GameObjectName="/Canvas/NewGameDialog/Frame/Container/Dialog/ScrollArea/ScrollContent/PlayWithFriendsBtn" SliderValue="0" />
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PleaseLoginPopup" SliderValue="0" />
     <UIEvent TimeDelta="1.10502625" Type="ButtonClick" GameObjectName="/Canvas/PleaseLoginPopup/Frame/Container/Dialog/Header/CloseButton" SliderValue="0" />
-    <UIEvent TimeDelta="30.6139221" Type="ButtonClick" GameObjectName="/Canvas/NewGameDialog/Frame/Container/Dialog/ScrollArea/ScrollContent/SinglePlayerBtn" SliderValue="0" />
+    <UIEvent TimeDelta="3.6139221" Type="ButtonClick" GameObjectName="/Canvas/NewGameDialog/Frame/Container/Dialog/ScrollArea/ScrollContent/SinglePlayerBtn" SliderValue="0" />
     <UIEvent TimeDelta="0.272689819" Type="ViewOpened" GameObjectName="/Canvas/SinglePlayerPopup" SliderValue="0" />
     <UIEvent TimeDelta="1.89668274" Type="ButtonClick" GameObjectName="/Canvas/SinglePlayerPopup/Frame/Container/Dialog/ScrollArea/ScrollContent/MatchPanel/DifficultyGroup/HelpButton" SliderValue="0" />
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
@@ -233,7 +233,7 @@
     <UIEvent TimeDelta="5.89128876" Type="ButtonClick" GameObjectName="/Canvas/NewGameDialog/Frame/Container/Dialog/ScrollArea/ScrollContent/PlayWithFriendsBtn" SliderValue="0" />
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PleaseLoginPopup" SliderValue="0" />
     <UIEvent TimeDelta="1.10502625" Type="ButtonClick" GameObjectName="/Canvas/PleaseLoginPopup/Frame/Container/Dialog/Header/CloseButton" SliderValue="0" />
-    <UIEvent TimeDelta="30.6139221" Type="ButtonClick" GameObjectName="/Canvas/NewGameDialog/Frame/Container/Dialog/ScrollArea/ScrollContent/SinglePlayerBtn" SliderValue="0" />
+    <UIEvent TimeDelta="3.6139221" Type="ButtonClick" GameObjectName="/Canvas/NewGameDialog/Frame/Container/Dialog/ScrollArea/ScrollContent/SinglePlayerBtn" SliderValue="0" />
     <UIEvent TimeDelta="0.272689819" Type="ViewOpened" GameObjectName="/Canvas/SinglePlayerPopup" SliderValue="0" />
     <UIEvent TimeDelta="1.89668274" Type="ButtonClick" GameObjectName="/Canvas/SinglePlayerPopup/Frame/Container/Dialog/ScrollArea/ScrollContent/MatchPanel/DifficultyGroup/HelpButton" SliderValue="0" />
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
@@ -382,7 +382,7 @@
     <UIEvent TimeDelta="5.89128876" Type="ButtonClick" GameObjectName="/Canvas/NewGameDialog/Frame/Container/Dialog/ScrollArea/ScrollContent/PlayWithFriendsBtn" SliderValue="0" />
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PleaseLoginPopup" SliderValue="0" />
     <UIEvent TimeDelta="1.10502625" Type="ButtonClick" GameObjectName="/Canvas/PleaseLoginPopup/Frame/Container/Dialog/Header/CloseButton" SliderValue="0" />
-    <UIEvent TimeDelta="30.6139221" Type="ButtonClick" GameObjectName="/Canvas/NewGameDialog/Frame/Container/Dialog/ScrollArea/ScrollContent/SinglePlayerBtn" SliderValue="0" />
+    <UIEvent TimeDelta="3.6139221" Type="ButtonClick" GameObjectName="/Canvas/NewGameDialog/Frame/Container/Dialog/ScrollArea/ScrollContent/SinglePlayerBtn" SliderValue="0" />
     <UIEvent TimeDelta="0.272689819" Type="ViewOpened" GameObjectName="/Canvas/SinglePlayerPopup" SliderValue="0" />
     <UIEvent TimeDelta="1.89668274" Type="ButtonClick" GameObjectName="/Canvas/SinglePlayerPopup/Frame/Container/Dialog/ScrollArea/ScrollContent/MatchPanel/DifficultyGroup/HelpButton" SliderValue="0" />
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
@@ -531,7 +531,7 @@
     <UIEvent TimeDelta="5.89128876" Type="ButtonClick" GameObjectName="/Canvas/NewGameDialog/Frame/Container/Dialog/ScrollArea/ScrollContent/PlayWithFriendsBtn" SliderValue="0" />
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PleaseLoginPopup" SliderValue="0" />
     <UIEvent TimeDelta="1.10502625" Type="ButtonClick" GameObjectName="/Canvas/PleaseLoginPopup/Frame/Container/Dialog/Header/CloseButton" SliderValue="0" />
-    <UIEvent TimeDelta="30.6139221" Type="ButtonClick" GameObjectName="/Canvas/NewGameDialog/Frame/Container/Dialog/ScrollArea/ScrollContent/SinglePlayerBtn" SliderValue="0" />
+    <UIEvent TimeDelta="3.6139221" Type="ButtonClick" GameObjectName="/Canvas/NewGameDialog/Frame/Container/Dialog/ScrollArea/ScrollContent/SinglePlayerBtn" SliderValue="0" />
     <UIEvent TimeDelta="0.272689819" Type="ViewOpened" GameObjectName="/Canvas/SinglePlayerPopup" SliderValue="0" />
     <UIEvent TimeDelta="1.89668274" Type="ButtonClick" GameObjectName="/Canvas/SinglePlayerPopup/Frame/Container/Dialog/ScrollArea/ScrollContent/MatchPanel/DifficultyGroup/HelpButton" SliderValue="0" />
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
@@ -680,7 +680,7 @@
     <UIEvent TimeDelta="5.89128876" Type="ButtonClick" GameObjectName="/Canvas/NewGameDialog/Frame/Container/Dialog/ScrollArea/ScrollContent/PlayWithFriendsBtn" SliderValue="0" />
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PleaseLoginPopup" SliderValue="0" />
     <UIEvent TimeDelta="1.10502625" Type="ButtonClick" GameObjectName="/Canvas/PleaseLoginPopup/Frame/Container/Dialog/Header/CloseButton" SliderValue="0" />
-    <UIEvent TimeDelta="30.6139221" Type="ButtonClick" GameObjectName="/Canvas/NewGameDialog/Frame/Container/Dialog/ScrollArea/ScrollContent/SinglePlayerBtn" SliderValue="0" />
+    <UIEvent TimeDelta="3.6139221" Type="ButtonClick" GameObjectName="/Canvas/NewGameDialog/Frame/Container/Dialog/ScrollArea/ScrollContent/SinglePlayerBtn" SliderValue="0" />
     <UIEvent TimeDelta="0.272689819" Type="ViewOpened" GameObjectName="/Canvas/SinglePlayerPopup" SliderValue="0" />
     <UIEvent TimeDelta="1.89668274" Type="ButtonClick" GameObjectName="/Canvas/SinglePlayerPopup/Frame/Container/Dialog/ScrollArea/ScrollContent/MatchPanel/DifficultyGroup/HelpButton" SliderValue="0" />
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
@@ -829,7 +829,7 @@
     <UIEvent TimeDelta="5.89128876" Type="ButtonClick" GameObjectName="/Canvas/NewGameDialog/Frame/Container/Dialog/ScrollArea/ScrollContent/PlayWithFriendsBtn" SliderValue="0" />
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PleaseLoginPopup" SliderValue="0" />
     <UIEvent TimeDelta="1.10502625" Type="ButtonClick" GameObjectName="/Canvas/PleaseLoginPopup/Frame/Container/Dialog/Header/CloseButton" SliderValue="0" />
-    <UIEvent TimeDelta="30.6139221" Type="ButtonClick" GameObjectName="/Canvas/NewGameDialog/Frame/Container/Dialog/ScrollArea/ScrollContent/SinglePlayerBtn" SliderValue="0" />
+    <UIEvent TimeDelta="3.6139221" Type="ButtonClick" GameObjectName="/Canvas/NewGameDialog/Frame/Container/Dialog/ScrollArea/ScrollContent/SinglePlayerBtn" SliderValue="0" />
     <UIEvent TimeDelta="0.272689819" Type="ViewOpened" GameObjectName="/Canvas/SinglePlayerPopup" SliderValue="0" />
     <UIEvent TimeDelta="1.89668274" Type="ButtonClick" GameObjectName="/Canvas/SinglePlayerPopup/Frame/Container/Dialog/ScrollArea/ScrollContent/MatchPanel/DifficultyGroup/HelpButton" SliderValue="0" />
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
