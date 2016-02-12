@@ -9,11 +9,15 @@ autoStartDelay = "15" #seconds
 scenariosList = "ScenariosList"
 xmlExtension = ".xml"
 ipPath = "https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/"
+defaultScenario = "Android_phone_UIA_CI.xml"
 
 
 mypath = dirname(abspath(__file__))
-onlyfiles = [ f for f in listdir(mypath) if isfile(join(mypath,f)) and xmlExtension in f and not scenariosList in f]
+onlyfiles = [ f for f in listdir(mypath) if isfile(join(mypath,f)) and xmlExtension in f.lower() and not scenariosList in f and not defaultScenario in f]
 onlyfiles.sort()
+
+if isfile(defaultScenario) :
+   onlyfiles.insert(0, defaultScenario)
 
 root = ET.Element("ScenarioList")
 root.set("xmlns:xsi","http://www.w3.org/2001/XMLSchema-instance")
