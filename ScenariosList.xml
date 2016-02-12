@@ -20,5 +20,6 @@
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/iOS_phone_v7_FR_ES_IT.xml"/>
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/iOS_phone_v7_GR_PT.xml"/>
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/mattel_scrabblefree_5.1.1.731495_Landscape_Actions.xml"/>
+		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/5.1.1.732520_Landscape_Actions_V1QARO.xml"/>
 	</Scenarios>
 </ScenarioList>
