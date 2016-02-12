@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <ScenarioList AutoStartDelay="15" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<Scenarios>
-		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Android_phone_UIA_CI.xml"/>
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/5.1.0.723904_iOS_phone_v6.xml"/>
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Android_5.0.0.697859_Phone_Full.xml"/>
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Android_Landscape_v10_FR.xml"/>
@@ -9,6 +8,7 @@
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Android_Landscape_v8_FR_ES_IT.xml"/>
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Android_Landscape_v8_GR_PT_EN.xml"/>
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Android_phone_UIA.xml"/>
+		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Android_phone_UIA_CI.xml"/>
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Android_phone_UIA_CI_no_Update.xml"/>
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Android_phone_UIA_Night.xml"/>
 		<Scenario Path="https://raw.githubusercontent.com/scrabble-testcases/ui-automation/master/Android_phone_UIA_Night_no_Update.xml"/>
