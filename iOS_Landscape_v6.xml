@@ -127,8 +127,6 @@
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
     <UIEvent TimeDelta="1.53977966" Type="ButtonClick" GameObjectName="/Canvas/PopupDialog/Frame/Container/Dialog/Body/ButtonCenter" SliderValue="0" />
     <UIEvent TimeDelta="1.6708374" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/CenterPanel/DialogContainer/GameWindow/Background/Header/Panel/BestWordButton" SliderValue="0" />
-    <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
-    <UIEvent TimeDelta="0.9686737" Type="ButtonClick" GameObjectName="/Canvas/PopupDialog/Frame/Container/Dialog/Body/ButtonLeft" SliderValue="0" />
     <UIEvent TimeDelta="0.7481537" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/CenterPanel/DialogContainer/GameWindow/Background/Header/Panel/DictionaryLandscape" SliderValue="0" />
     <UIEvent TimeDelta="0.0239257813" Type="ViewOpened" GameObjectName="/Canvas/ParentWindow/AllPanels/RightPanel/DialogContainer/DictionaryDialog" SliderValue="0" />
     <UIEvent TimeDelta="1.69496155" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/RightPanel/DialogContainer/DictionaryDialog/Frame/Background/Buttons/MoveTabButtonContainer/Toggle" SliderValue="0" />
@@ -222,8 +220,6 @@
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/ParentWindow/AllPanels/CenterPanel/DialogContainer/GameWindow/PopupPlaceholder/GetReady" SliderValue="0" />
     <UIEvent TimeDelta="0.0165710449" Type="ViewOpened" GameObjectName="/Canvas/ParentWindow/AllPanels/LeftPanel/DialogContainer/MainMenu/TabsPlaceholder/StartPage/ScrollArea/ScrollContent/ListsPlaceholder/LocalGameList/ListPlaceholder/LocalGameInfo" SliderValue="0" />
     <UIEvent TimeDelta="9.249603" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/CenterPanel/DialogContainer/GameWindow/Background/Header/Panel/BestWordButton" SliderValue="0" />
-    <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
-    <UIEvent TimeDelta="1.01896667" Type="ButtonClick" GameObjectName="/Canvas/PopupDialog/Frame/Container/Dialog/Body/ButtonLeft" SliderValue="0" />
     <UIEvent TimeDelta="0.615829468" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/CenterPanel/DialogContainer/GameWindow/Background/Header/Panel/DictionaryLandscape" SliderValue="0" />
     <UIEvent TimeDelta="0.0165710449" Type="ViewOpened" GameObjectName="/Canvas/ParentWindow/AllPanels/RightPanel/DialogContainer/DictionaryDialog" SliderValue="0" />
     <UIEvent TimeDelta="1.73017883" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/RightPanel/DialogContainer/DictionaryDialog/Frame/Background/Buttons/MoveTabButtonContainer/Toggle" SliderValue="0" />
@@ -261,8 +257,6 @@
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
     <UIEvent TimeDelta="1.53977966" Type="ButtonClick" GameObjectName="/Canvas/PopupDialog/Frame/Container/Dialog/Body/ButtonCenter" SliderValue="0" />
     <UIEvent TimeDelta="1.6708374" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/CenterPanel/DialogContainer/GameWindow/Background/Header/Panel/BestWordButton" SliderValue="0" />
-    <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
-    <UIEvent TimeDelta="0.9686737" Type="ButtonClick" GameObjectName="/Canvas/PopupDialog/Frame/Container/Dialog/Body/ButtonLeft" SliderValue="0" />
     <UIEvent TimeDelta="0.7481537" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/CenterPanel/DialogContainer/GameWindow/Background/Header/Panel/DictionaryLandscape" SliderValue="0" />
     <UIEvent TimeDelta="0.0239257813" Type="ViewOpened" GameObjectName="/Canvas/ParentWindow/AllPanels/RightPanel/DialogContainer/DictionaryDialog" SliderValue="0" />
     <UIEvent TimeDelta="1.69496155" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/RightPanel/DialogContainer/DictionaryDialog/Frame/Background/Buttons/MoveTabButtonContainer/Toggle" SliderValue="0" />
@@ -356,8 +350,6 @@
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/ParentWindow/AllPanels/CenterPanel/DialogContainer/GameWindow/PopupPlaceholder/GetReady" SliderValue="0" />
     <UIEvent TimeDelta="0.0165710449" Type="ViewOpened" GameObjectName="/Canvas/ParentWindow/AllPanels/LeftPanel/DialogContainer/MainMenu/TabsPlaceholder/StartPage/ScrollArea/ScrollContent/ListsPlaceholder/LocalGameList/ListPlaceholder/LocalGameInfo" SliderValue="0" />
     <UIEvent TimeDelta="9.249603" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/CenterPanel/DialogContainer/GameWindow/Background/Header/Panel/BestWordButton" SliderValue="0" />
-    <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
-    <UIEvent TimeDelta="1.01896667" Type="ButtonClick" GameObjectName="/Canvas/PopupDialog/Frame/Container/Dialog/Body/ButtonLeft" SliderValue="0" />
     <UIEvent TimeDelta="0.615829468" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/CenterPanel/DialogContainer/GameWindow/Background/Header/Panel/DictionaryLandscape" SliderValue="0" />
     <UIEvent TimeDelta="0.0165710449" Type="ViewOpened" GameObjectName="/Canvas/ParentWindow/AllPanels/RightPanel/DialogContainer/DictionaryDialog" SliderValue="0" />
     <UIEvent TimeDelta="1.73017883" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/RightPanel/DialogContainer/DictionaryDialog/Frame/Background/Buttons/MoveTabButtonContainer/Toggle" SliderValue="0" />
@@ -395,8 +387,6 @@
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
     <UIEvent TimeDelta="1.53977966" Type="ButtonClick" GameObjectName="/Canvas/PopupDialog/Frame/Container/Dialog/Body/ButtonCenter" SliderValue="0" />
     <UIEvent TimeDelta="1.6708374" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/CenterPanel/DialogContainer/GameWindow/Background/Header/Panel/BestWordButton" SliderValue="0" />
-    <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
-    <UIEvent TimeDelta="0.9686737" Type="ButtonClick" GameObjectName="/Canvas/PopupDialog/Frame/Container/Dialog/Body/ButtonLeft" SliderValue="0" />
     <UIEvent TimeDelta="0.7481537" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/CenterPanel/DialogContainer/GameWindow/Background/Header/Panel/DictionaryLandscape" SliderValue="0" />
     <UIEvent TimeDelta="0.0239257813" Type="ViewOpened" GameObjectName="/Canvas/ParentWindow/AllPanels/RightPanel/DialogContainer/DictionaryDialog" SliderValue="0" />
     <UIEvent TimeDelta="1.69496155" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/RightPanel/DialogContainer/DictionaryDialog/Frame/Background/Buttons/MoveTabButtonContainer/Toggle" SliderValue="0" />
@@ -490,8 +480,6 @@
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/ParentWindow/AllPanels/CenterPanel/DialogContainer/GameWindow/PopupPlaceholder/GetReady" SliderValue="0" />
     <UIEvent TimeDelta="0.0165710449" Type="ViewOpened" GameObjectName="/Canvas/ParentWindow/AllPanels/LeftPanel/DialogContainer/MainMenu/TabsPlaceholder/StartPage/ScrollArea/ScrollContent/ListsPlaceholder/LocalGameList/ListPlaceholder/LocalGameInfo" SliderValue="0" />
     <UIEvent TimeDelta="9.249603" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/CenterPanel/DialogContainer/GameWindow/Background/Header/Panel/BestWordButton" SliderValue="0" />
-    <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
-    <UIEvent TimeDelta="1.01896667" Type="ButtonClick" GameObjectName="/Canvas/PopupDialog/Frame/Container/Dialog/Body/ButtonLeft" SliderValue="0" />
     <UIEvent TimeDelta="0.615829468" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/CenterPanel/DialogContainer/GameWindow/Background/Header/Panel/DictionaryLandscape" SliderValue="0" />
     <UIEvent TimeDelta="0.0165710449" Type="ViewOpened" GameObjectName="/Canvas/ParentWindow/AllPanels/RightPanel/DialogContainer/DictionaryDialog" SliderValue="0" />
     <UIEvent TimeDelta="1.73017883" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/RightPanel/DialogContainer/DictionaryDialog/Frame/Background/Buttons/MoveTabButtonContainer/Toggle" SliderValue="0" />
@@ -529,8 +517,6 @@
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
     <UIEvent TimeDelta="1.53977966" Type="ButtonClick" GameObjectName="/Canvas/PopupDialog/Frame/Container/Dialog/Body/ButtonCenter" SliderValue="0" />
     <UIEvent TimeDelta="1.6708374" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/CenterPanel/DialogContainer/GameWindow/Background/Header/Panel/BestWordButton" SliderValue="0" />
-    <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
-    <UIEvent TimeDelta="0.9686737" Type="ButtonClick" GameObjectName="/Canvas/PopupDialog/Frame/Container/Dialog/Body/ButtonLeft" SliderValue="0" />
     <UIEvent TimeDelta="0.7481537" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/CenterPanel/DialogContainer/GameWindow/Background/Header/Panel/DictionaryLandscape" SliderValue="0" />
     <UIEvent TimeDelta="0.0239257813" Type="ViewOpened" GameObjectName="/Canvas/ParentWindow/AllPanels/RightPanel/DialogContainer/DictionaryDialog" SliderValue="0" />
     <UIEvent TimeDelta="1.69496155" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/RightPanel/DialogContainer/DictionaryDialog/Frame/Background/Buttons/MoveTabButtonContainer/Toggle" SliderValue="0" />
@@ -624,8 +610,6 @@
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/ParentWindow/AllPanels/CenterPanel/DialogContainer/GameWindow/PopupPlaceholder/GetReady" SliderValue="0" />
     <UIEvent TimeDelta="0.0165710449" Type="ViewOpened" GameObjectName="/Canvas/ParentWindow/AllPanels/LeftPanel/DialogContainer/MainMenu/TabsPlaceholder/StartPage/ScrollArea/ScrollContent/ListsPlaceholder/LocalGameList/ListPlaceholder/LocalGameInfo" SliderValue="0" />
     <UIEvent TimeDelta="9.249603" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/CenterPanel/DialogContainer/GameWindow/Background/Header/Panel/BestWordButton" SliderValue="0" />
-    <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
-    <UIEvent TimeDelta="1.01896667" Type="ButtonClick" GameObjectName="/Canvas/PopupDialog/Frame/Container/Dialog/Body/ButtonLeft" SliderValue="0" />
     <UIEvent TimeDelta="0.615829468" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/CenterPanel/DialogContainer/GameWindow/Background/Header/Panel/DictionaryLandscape" SliderValue="0" />
     <UIEvent TimeDelta="0.0165710449" Type="ViewOpened" GameObjectName="/Canvas/ParentWindow/AllPanels/RightPanel/DialogContainer/DictionaryDialog" SliderValue="0" />
     <UIEvent TimeDelta="1.73017883" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/RightPanel/DialogContainer/DictionaryDialog/Frame/Background/Buttons/MoveTabButtonContainer/Toggle" SliderValue="0" />
@@ -663,8 +647,6 @@
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
     <UIEvent TimeDelta="1.53977966" Type="ButtonClick" GameObjectName="/Canvas/PopupDialog/Frame/Container/Dialog/Body/ButtonCenter" SliderValue="0" />
     <UIEvent TimeDelta="1.6708374" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/CenterPanel/DialogContainer/GameWindow/Background/Header/Panel/BestWordButton" SliderValue="0" />
-    <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
-    <UIEvent TimeDelta="0.9686737" Type="ButtonClick" GameObjectName="/Canvas/PopupDialog/Frame/Container/Dialog/Body/ButtonLeft" SliderValue="0" />
     <UIEvent TimeDelta="0.7481537" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/CenterPanel/DialogContainer/GameWindow/Background/Header/Panel/DictionaryLandscape" SliderValue="0" />
     <UIEvent TimeDelta="0.0239257813" Type="ViewOpened" GameObjectName="/Canvas/ParentWindow/AllPanels/RightPanel/DialogContainer/DictionaryDialog" SliderValue="0" />
     <UIEvent TimeDelta="1.69496155" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/RightPanel/DialogContainer/DictionaryDialog/Frame/Background/Buttons/MoveTabButtonContainer/Toggle" SliderValue="0" />
@@ -758,8 +740,6 @@
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/ParentWindow/AllPanels/CenterPanel/DialogContainer/GameWindow/PopupPlaceholder/GetReady" SliderValue="0" />
     <UIEvent TimeDelta="0.0165710449" Type="ViewOpened" GameObjectName="/Canvas/ParentWindow/AllPanels/LeftPanel/DialogContainer/MainMenu/TabsPlaceholder/StartPage/ScrollArea/ScrollContent/ListsPlaceholder/LocalGameList/ListPlaceholder/LocalGameInfo" SliderValue="0" />
     <UIEvent TimeDelta="9.249603" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/CenterPanel/DialogContainer/GameWindow/Background/Header/Panel/BestWordButton" SliderValue="0" />
-    <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
-    <UIEvent TimeDelta="1.01896667" Type="ButtonClick" GameObjectName="/Canvas/PopupDialog/Frame/Container/Dialog/Body/ButtonLeft" SliderValue="0" />
     <UIEvent TimeDelta="0.615829468" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/CenterPanel/DialogContainer/GameWindow/Background/Header/Panel/DictionaryLandscape" SliderValue="0" />
     <UIEvent TimeDelta="0.0165710449" Type="ViewOpened" GameObjectName="/Canvas/ParentWindow/AllPanels/RightPanel/DialogContainer/DictionaryDialog" SliderValue="0" />
     <UIEvent TimeDelta="1.73017883" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/RightPanel/DialogContainer/DictionaryDialog/Frame/Background/Buttons/MoveTabButtonContainer/Toggle" SliderValue="0" />
@@ -797,8 +777,6 @@
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
     <UIEvent TimeDelta="1.53977966" Type="ButtonClick" GameObjectName="/Canvas/PopupDialog/Frame/Container/Dialog/Body/ButtonCenter" SliderValue="0" />
     <UIEvent TimeDelta="1.6708374" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/CenterPanel/DialogContainer/GameWindow/Background/Header/Panel/BestWordButton" SliderValue="0" />
-    <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
-    <UIEvent TimeDelta="0.9686737" Type="ButtonClick" GameObjectName="/Canvas/PopupDialog/Frame/Container/Dialog/Body/ButtonLeft" SliderValue="0" />
     <UIEvent TimeDelta="0.7481537" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/CenterPanel/DialogContainer/GameWindow/Background/Header/Panel/DictionaryLandscape" SliderValue="0" />
     <UIEvent TimeDelta="0.0239257813" Type="ViewOpened" GameObjectName="/Canvas/ParentWindow/AllPanels/RightPanel/DialogContainer/DictionaryDialog" SliderValue="0" />
     <UIEvent TimeDelta="1.69496155" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/RightPanel/DialogContainer/DictionaryDialog/Frame/Background/Buttons/MoveTabButtonContainer/Toggle" SliderValue="0" />
@@ -844,8 +822,6 @@
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/ParentWindow/AllPanels/CenterPanel/DialogContainer/GameWindow/PopupPlaceholder/GetReady" SliderValue="0" />
     <UIEvent TimeDelta="0.0165710449" Type="ViewOpened" GameObjectName="/Canvas/ParentWindow/AllPanels/LeftPanel/DialogContainer/MainMenu/TabsPlaceholder/StartPage/ScrollArea/ScrollContent/ListsPlaceholder/LocalGameList/ListPlaceholder/LocalGameInfo" SliderValue="0" />
     <UIEvent TimeDelta="9.249603" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/CenterPanel/DialogContainer/GameWindow/Background/Header/Panel/BestWordButton" SliderValue="0" />
-    <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
-    <UIEvent TimeDelta="1.01896667" Type="ButtonClick" GameObjectName="/Canvas/PopupDialog/Frame/Container/Dialog/Body/ButtonLeft" SliderValue="0" />
     <UIEvent TimeDelta="0.615829468" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/CenterPanel/DialogContainer/GameWindow/Background/Header/Panel/DictionaryLandscape" SliderValue="0" />
     <UIEvent TimeDelta="0.0165710449" Type="ViewOpened" GameObjectName="/Canvas/ParentWindow/AllPanels/RightPanel/DialogContainer/DictionaryDialog" SliderValue="0" />
     <UIEvent TimeDelta="1.73017883" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/RightPanel/DialogContainer/DictionaryDialog/Frame/Background/Buttons/MoveTabButtonContainer/Toggle" SliderValue="0" />
@@ -883,8 +859,6 @@
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
     <UIEvent TimeDelta="1.53977966" Type="ButtonClick" GameObjectName="/Canvas/PopupDialog/Frame/Container/Dialog/Body/ButtonCenter" SliderValue="0" />
     <UIEvent TimeDelta="1.6708374" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/CenterPanel/DialogContainer/GameWindow/Background/Header/Panel/BestWordButton" SliderValue="0" />
-    <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
-    <UIEvent TimeDelta="0.9686737" Type="ButtonClick" GameObjectName="/Canvas/PopupDialog/Frame/Container/Dialog/Body/ButtonLeft" SliderValue="0" />
     <UIEvent TimeDelta="0.7481537" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/CenterPanel/DialogContainer/GameWindow/Background/Header/Panel/DictionaryLandscape" SliderValue="0" />
     <UIEvent TimeDelta="0.0239257813" Type="ViewOpened" GameObjectName="/Canvas/ParentWindow/AllPanels/RightPanel/DialogContainer/DictionaryDialog" SliderValue="0" />
     <UIEvent TimeDelta="1.69496155" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/RightPanel/DialogContainer/DictionaryDialog/Frame/Background/Buttons/MoveTabButtonContainer/Toggle" SliderValue="0" />
@@ -930,8 +904,6 @@
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/ParentWindow/AllPanels/CenterPanel/DialogContainer/GameWindow/PopupPlaceholder/GetReady" SliderValue="0" />
     <UIEvent TimeDelta="0.0165710449" Type="ViewOpened" GameObjectName="/Canvas/ParentWindow/AllPanels/LeftPanel/DialogContainer/MainMenu/TabsPlaceholder/StartPage/ScrollArea/ScrollContent/ListsPlaceholder/LocalGameList/ListPlaceholder/LocalGameInfo" SliderValue="0" />
     <UIEvent TimeDelta="9.249603" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/CenterPanel/DialogContainer/GameWindow/Background/Header/Panel/BestWordButton" SliderValue="0" />
-    <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
-    <UIEvent TimeDelta="1.01896667" Type="ButtonClick" GameObjectName="/Canvas/PopupDialog/Frame/Container/Dialog/Body/ButtonLeft" SliderValue="0" />
     <UIEvent TimeDelta="0.615829468" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/CenterPanel/DialogContainer/GameWindow/Background/Header/Panel/DictionaryLandscape" SliderValue="0" />
     <UIEvent TimeDelta="0.0165710449" Type="ViewOpened" GameObjectName="/Canvas/ParentWindow/AllPanels/RightPanel/DialogContainer/DictionaryDialog" SliderValue="0" />
     <UIEvent TimeDelta="1.73017883" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/RightPanel/DialogContainer/DictionaryDialog/Frame/Background/Buttons/MoveTabButtonContainer/Toggle" SliderValue="0" />
@@ -969,8 +941,6 @@
     <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
     <UIEvent TimeDelta="1.53977966" Type="ButtonClick" GameObjectName="/Canvas/PopupDialog/Frame/Container/Dialog/Body/ButtonCenter" SliderValue="0" />
     <UIEvent TimeDelta="1.6708374" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/CenterPanel/DialogContainer/GameWindow/Background/Header/Panel/BestWordButton" SliderValue="0" />
-    <UIEvent TimeDelta="0" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
-    <UIEvent TimeDelta="0.9686737" Type="ButtonClick" GameObjectName="/Canvas/PopupDialog/Frame/Container/Dialog/Body/ButtonLeft" SliderValue="0" />
     <UIEvent TimeDelta="0.7481537" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/CenterPanel/DialogContainer/GameWindow/Background/Header/Panel/DictionaryLandscape" SliderValue="0" />
     <UIEvent TimeDelta="0.0239257813" Type="ViewOpened" GameObjectName="/Canvas/ParentWindow/AllPanels/RightPanel/DialogContainer/DictionaryDialog" SliderValue="0" />
     <UIEvent TimeDelta="1.69496155" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/RightPanel/DialogContainer/DictionaryDialog/Frame/Background/Buttons/MoveTabButtonContainer/Toggle" SliderValue="0" />
