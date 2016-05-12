@@ -17,9 +17,13 @@
    
    
    
+    <UIEvent TimeDelta="5.310348" Type="ButtonClick" GameObjectName="/Canvas/TapToContinue/Container/Frame/MiddleText" SliderValue="0" />
+    <UIEvent TimeDelta="3.72600269" Type="ButtonClick" GameObjectName="/Canvas/TapToContinue/Container/Frame/MessageContainer/ButtonsContainer/SkipButton" SliderValue="0" />
+    <UIEvent TimeDelta="0.0168170929" Type="ViewOpened" GameObjectName="/Canvas/PopupDialog" SliderValue="0" />
+    <UIEvent TimeDelta="3.09886456" Type="ButtonClick" GameObjectName="/Canvas/PopupDialog/Frame/Container/Dialog/Body/ButtonRight" SliderValue="0" />
+    
    
-    <UIEvent TimeDelta="1.7838707" Type="ButtonClick" GameObjectName="/Canvas/TapToContinue/Container/Frame/MessageContainer/ButtonsContainer/TapToContinue" SliderValue="0" />
-	<!--Options_French-->
+   	<!--Options_French-->
     <UIEvent TimeDelta="3.499733" Type="ButtonClick" GameObjectName="/Canvas/ParentWindow/AllPanels/LeftPanel/DialogContainer/MainMenu/Header/ButtonsContainer/SettingsContainer/SettingsButton" SliderValue="0" />
     <UIEvent TimeDelta="0.0176639557" Type="ViewOpened" GameObjectName="/Canvas/OptionsPopup" SliderValue="0" />
     <UIEvent TimeDelta="1.5671463" Type="ButtonClick" GameObjectName="/Canvas/OptionsPopup/Frame/Container/Dialog/ScrollArea/ScrollContent/MenuLangButton" SliderValue="0" />
